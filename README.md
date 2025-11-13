@@ -1,4 +1,4 @@
-# 📱 WhatsApp Review Sentiment Analysis (NLP Project)
+# 📱 WarThunder Review Sentiment Analysis (NLP Project)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
